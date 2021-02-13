@@ -1,0 +1,17 @@
+Logo i[class=’a-icon a-icon-logo’]
+Create account (“div.a-box-inner h1”)
+Your Name id= (“ap_customer_name”)
+Email (“input#ap_email”)
+
+Password (id=’ap_password’)
+
+Passwords must be at least 6 characters. div[class=’a-alert-content’]
+
+Re  Enter password id=’ap_password_check’
+
+Create your Amazon Account (‘#continue’)
+
+Conditions of use  ("a[href*='condition_of_use']")
+
+Privacy notice ("a[href*='privacy_notice']")
+Sign in (“a.a-link-emphasis”)
