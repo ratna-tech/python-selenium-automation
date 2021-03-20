@@ -7,8 +7,8 @@ Feature: Test Scenarios to verify all UI elements present
   Scenario: User can see all UI elements
     Given Open Amazon customer help page
     Then elements for somethings you can do here count
-    Then elements text is present
-    Then verify search the help library textbox
-    Then text for Customer help is displayed
-    Then Browse Help Topics heading present
-    Then recommeneded topics present
+    And elements text is present
+    And verify search the help library textbox
+    And text for Customer help is displayed
+    And Browse Help Topics heading present
+    And recommeneded topics present
